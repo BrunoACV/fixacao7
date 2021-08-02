@@ -1,1 +1,1 @@
-# fixacao7
+# Nesta atividade eu fiz um programa em JAVA capaz de cadastrar um número qualquer de funcionários a partir do ID, nome e quantidade de salário para fazer uma operação de aumento de salário a partir da identificação do ID e indicação da quantidade em porcentagem do aumento salarial.
